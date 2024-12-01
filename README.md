@@ -12,10 +12,6 @@ The goal is to practice problem-solving, improve programming skills, and enjoy f
 
 ## Repository Structure
 
-The repository is organized as follows:
-
-. ├── day01/ │ ├── part1.py # Solution to Part 1 │ ├── part2.py # Solution to Part 2 │ ├── input.txt # Puzzle input for Day 1 ├── day02/ │ ├── part1.py │ ├── part2.py │ ├── input.txt └── README.md
-
 - **Each day** has its own folder containing:
   - Python scripts for Part 1 and Part 2.
   - The input file provided by Advent of Code.
